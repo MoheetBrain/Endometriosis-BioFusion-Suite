@@ -17,8 +17,6 @@ Comparative analysis on 10,000 synthetic patients:
 
 ### Feature Importance (Bio-Fusion Model)
 
-*[Your chart showing feature importance]*
-
 Top predictors ranked by importance:
 1. Pain_Level
 2. Protein_CA125
